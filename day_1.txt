@@ -1,0 +1,57 @@
+- oops programming language
+- interpreter programming language --> compiler programming language
+
+data types
+------------------------------------
+a = "subbu"                 --> string
+salary = 50000              --> numbers
+dob = "22/06/1992"          --> string
+details = {                 --> dictionary
+    "mother": "test",
+    "father": "test1"
+}
+childrens = ['ch1', 'ch2']  --> list
+bmi=21.2                    --> float
+
+data structures
+----------------------------------------
+string
+dictionary
+list
+set
+tuple
+
+list_multi = [{'tet':'test'}, 23, 'strnglsfkd', (a,b,c,d)]
+
+
+student_details - name, age, class, parent details, section, email, phone, address
+
+student_details = {
+    'name': 'manju',
+    'age': 5,
+    'class': '1st std',
+    'email': 'abc@gmai.com',
+    'parent_detais': {
+        'name': 'rehansh',
+        'age': 5,
+        'emails': 'abc@gmai.com'
+    },
+    'others': 'others',
+    'name': 'test'
+}
+
+std_frns = ['friend1','friend1','friend1','friend1','friend1','friend1','friend1','friend1']
+
+lst = ['item10','item2','item3','item4'] = 4
+      0, 1, 2, 3, 4, 5........n-1
+tuple = (10,2,3,4,5) ====== 
+        0, 1, 2, 3, 4, 5........n-1
+
+
+name = 'bubbu'
+name1 = 'subbu1'
+name1 = name
+name = 'sabbu'
+name = 'hanumanth'
+
+mutable and immutable types
