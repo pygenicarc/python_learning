@@ -1,0 +1,22 @@
+2 - numbers to add --> +
+2 - numbers to multiply --> *
+2 - numbers to div --> /
+2 - numbers to sub --> -
+
+============================
+a = 10
+b = 20
+sum = a+b
+print(sum)
+
+def addition():
+    # function code
+    return VALUE
+
+res = addition() # to call function
+
+def addition(a, b):
+    sum = a+b
+    return sum
+
+res = addition(10, 20)
