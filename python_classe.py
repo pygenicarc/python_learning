@@ -1,6 +1,3 @@
-def add_numbers(num1, num2):
-    return num1 + num2
-
 class Bottle:
     def __init__(self, capacity, size, color, material):
         self.capacity = capacity
